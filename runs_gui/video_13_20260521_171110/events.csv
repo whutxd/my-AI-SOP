@@ -1,0 +1,3 @@
+﻿index,action,fine_label,done_time_sec,done_time_beijing,snapshot_path
+1,第一步：取出水杯,S1_get_cup,4.8,2026-05-21 17:11:33,D:\FDM\my-AI-SOP\runs_gui\video_13_20260521_171110\snapshots\01_S1_get_cup_4.80.jpg
+2,第二步：放入水杯,S2_put_cup,14.433,2026-05-21 17:11:44,D:\FDM\my-AI-SOP\runs_gui\video_13_20260521_171110\snapshots\02_S2_put_cup_14.43.jpg

@@ -1,0 +1,23 @@
+{
+  "input_size": 131,
+  "hidden_size": 128,
+  "num_layers": 2,
+  "num_classes": 3,
+  "label_map": [
+    {
+      "id": 0,
+      "label": "background"
+    },
+    {
+      "id": 1,
+      "label": "S1_get_cup"
+    },
+    {
+      "id": 2,
+      "label": "S2_put_cup"
+    }
+  ],
+  "val_videos": [
+    "video/video_13.mp4"
+  ]
+}

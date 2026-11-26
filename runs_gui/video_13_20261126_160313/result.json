@@ -1,0 +1,25 @@
+{
+  "video": "video_13.mp4",
+  "completed": 2,
+  "total": 2,
+  "actions": [
+    {
+      "index": 1,
+      "show": "第一步：取出水杯",
+      "fine_label": "S1_get_cup",
+      "done": true,
+      "done_time_sec": 4.833333333333333,
+      "done_time_beijing": null,
+      "snapshot_path": "runs_gui\\video_13_20261126_160313\\snapshots\\01_S1_get_cup_4.83.jpg"
+    },
+    {
+      "index": 2,
+      "show": "第二步：放入水杯",
+      "fine_label": "S2_put_cup",
+      "done": true,
+      "done_time_sec": 14.433333333333334,
+      "done_time_beijing": null,
+      "snapshot_path": "runs_gui\\video_13_20261126_160313\\snapshots\\02_S2_put_cup_14.43.jpg"
+    }
+  ]
+}
